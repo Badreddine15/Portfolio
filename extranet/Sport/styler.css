@@ -11,6 +11,12 @@ body {
   font-family: "Montserrat", sans-serif;
 }
 
+.bjj  {
+  position: fixed;
+  top : 150px ;
+  left : 40px;
+  color: #f6f4e6; 
+}
 
 .navMenu {
   position: absolute;

@@ -10,7 +10,19 @@
 h1 {
 color : white 
 }
+.me {
+  width: 50%;
+  position: fixed;
+  top: 200px;
+  left: 40px;
+  color: white;
+  
+}
 
+.me a {
+	text-decoration: underline;
+	color: white;
+}
 body {
   background: #272727;
   font-family: "Montserrat", sans-serif;
